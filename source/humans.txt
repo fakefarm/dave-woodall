@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    dave woodall -- author -- @wwwoodall
+
+# THANKS
+
+    SMACSS, BEM, Angular, Middleman
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr

@@ -1,0 +1,129 @@
+@import 'variables';
+
+// Mixins
+// Able to use raw HTML elements
+// Use variables for measurements
+
+@mixin text_right { text-align: right; }
+
+@mixin header {
+  background: red;
+}
+
+@mixin default_animation {}
+
+@mixin page {
+  color: $eggplant;
+}
+
+@mixin paragraph {
+  background: $white;
+  font-size: $default_space;
+  font-family: $lucida;
+  padding: $extra_space 0;
+  line-height: 25px;
+}
+
+@mixin rounded_background_dark {
+  background: $light_gray;
+  border-radius: $line_weight;
+}
+
+@mixin container {
+  padding: $extra_space;
+  background: $light_gray;
+  margin: $extra_space;
+  border: $line_weight $line_type $gray;
+  margin: 0;
+}
+
+@mixin list {
+  ul {
+    color: $eggplant;
+    background: $pink;
+    padding-left: $default_space;
+    padding-top: $default_space;
+    padding-bottom: $default_space;
+  }
+  li {
+    font-size: $default_space;
+    margin: $default_space $limited_space $limited_space $limited_space;
+  }
+}
+
+@mixin button {
+  background: $green;
+  color: white;
+  border-radius: $subtle_radius;
+  font-family: $sanserif;
+  font-size: $font_size_4;
+  font-weight: 100;
+  letter-spacing: 3px;
+  padding: $default_space;
+  display: inline-block;
+  cursor: pointer;
+  &:hover {
+    background: $eggplant;
+  }
+}
+
+@mixin dynamic {
+  opacity: 0;
+  font-size: 0;
+}
+@mixin active {
+  opacity: 1 !important;
+  font-size: inherit !important;
+}
+
+@mixin unstyled_collection {
+  border: none;
+  padding: 0;
+  margin-left: 0;
+}
+
+@mixin col_2 {
+  @include media(min-width $tablet) {
+    @include span-columns(6);
+  }
+}
+
+@mixin split-screen {
+  @include span-columns(12);
+  @include media(min-width $tablet) {
+    @include span-columns(6);
+  }
+}
+
+@mixin app {
+  padding: $default_space;
+}
+
+@mixin title {
+  font-size: $font_size_1;
+  @include media(min-width $tablet) {
+    font-size: $font_size_3;
+  }
+}
+
+// FIX
+@mixin fadeIn {
+//   margin_left: 0;
+//   @include transition(all 300ms ease_in);
+}
+
+// .animated {
+//   @include transition(all 300ms ease_in);
+// }
+
+@mixin hello_world { color: $eggplant; }
+
+@mixin collection { @include row(); }
+
+
+@mixin columns_one {
+  @include span-columns(12);
+  @include media(min-width $tablet) {
+    @include span-columns(12);
+  }
+}

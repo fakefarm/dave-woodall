@@ -1,0 +1,31 @@
+// padding, pixels, weights
+
+$limited_space: 0em;
+$default_space: 1em;
+$extra_space:   2em;
+$line_weight:   3px;
+$subtle_radius: 3px;
+$line_type:     solid;
+
+$font_size_4:   4em;
+$font_size_3:   3em;
+$font_size_2:   2em;
+$font_size_1:   1em;
+
+// breakpoints
+
+$tablet:        461px;
+$laptop:        761px;
+$display:       1261px;
+
+// colors
+$white: rgba(255,255,255,0.5);
+$gray:       #004080;
+$light_gray: #eee;
+$eggplant:   #800080;
+$pink:       #F2DDE6;
+$green:      #00A050;
+
+// typography
+$sanserif: 'helvetica neue', helvetica, arial;
+$lucida: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;

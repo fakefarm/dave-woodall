@@ -1,0 +1,58 @@
+@import 'mixins';
+
+// reminder:
+// If you're using a snippet like example.com/snippets
+// then it's a good idea to collapse all your classes and make sure every underscored class is represented in your snippet.
+
+._scope_ {
+  &.app { @include app }
+  &.page { @include page }
+  &.collection { @include collection }
+  &.unit {} //-> use ._unit_
+}
+
+._instance_ {
+  &.text_right { @include text_right; }
+  &.header { @include header; }
+}
+
+._state_ {
+  &.active  { @include active; }
+  &.dynamic { @include dynamic; }
+  &.alarm   {}
+}
+
+._columns_ {
+  &.one { @include columns_one }
+}
+
+._columns_ {
+  &.one { @include columns_one }
+}
+
+._animation_ {
+  &.fadeIn{ @include fadeIn; }
+  &.yes { @include default_animation; }
+}
+
+._pattern_ {
+  &.container { @include container }
+  &.button    { @include button    }
+  &.paragraph { @include paragraph }
+  &.list      { @include list      }
+  &.grid      {}
+  &.title     { @include title }
+  &.image     {}
+  &.split-screen { @include split-screen }
+}
+
+._unit_ {
+  margin-bottom: $default_space;
+  &.rounded_background_dark { @include rounded_background_dark }
+  &.hello_world { @include hello_world; }
+  &.welcome_message { font-size: $font_size_2; }
+  &.welcome-btn {}
+  &.collection-title {
+    font-size: $font_size_3;
+  }
+}

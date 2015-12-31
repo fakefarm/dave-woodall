@@ -1,0 +1,112 @@
+---
+title: Welcome to Middleman
+---
+
+<header class="
+  _scope_ collection
+  _instance_ header
+  _state_ visible
+  _columns_ two
+  _animation_ yes
+  _pattern_ wrap
+  ">
+  <div class="
+    _scope_ unit
+    _instance_ logo
+    _state_ visible
+    _columns_ one
+    _animation_ yes
+    _pattern_ title
+    "
+    data-click="logo"
+    >
+    <%= image_tag data.copy.logo %>
+    <div class="
+      _scope_ collection
+      _instance_ logo_hover
+      _state_ dynamic
+      _columns_ 1
+      _animation_ yes
+      _pattern_ modal
+      "
+      data-content="logo"
+      >
+      <div class="
+        _scope_ unit
+        _instance_ logo_alternate
+        _state_ inherit
+        _columns_ one
+        _animation_ yes
+        _pattern_ image
+        ">
+        <%= data.copy.logo_alternate %>
+      </div> <!-- unit image logo_alternate -->
+      <div class="
+        _scope_ unit
+        _instance_ logo_header
+        _state_ inherit
+        _columns_ one
+        _animation_ yes
+        _pattern_ title
+        ">
+        <%= data.copy.logo_header %>
+      </div> <!-- unit title logo_header -->
+      <unit class="
+        _scope_ unit
+        _instance_ logo_paragraph
+        _state_ inherit
+        _columns_ one
+        _animation_ yes
+        _pattern_ logo_paragraph
+        "
+        data-content="logo_paragraph"
+        data-click="logo_paragraph"
+        data-position="logo_paragraph"
+        data-ga="logo_paragraph"
+        >
+        <%= data.copy.logo_paragraph %>
+      </unit> <!-- unit logo_paragraph logo_paragraph -->
+    </div> <!-- collection modal logo_hover -->
+  </div> <!-- collection title logo -->
+
+  <nav class="
+    _scope_ collection
+    _instance_ nav
+    _state_ visible
+    _columns_ three
+    _animation_ none
+    _pattern_ wrap
+    "
+    data-content="nav"
+    data-click="nav"
+    data-position="nav"
+    data-ga="nav"
+    >
+    <ul class="
+      _scope_ unit
+      _instance_ nav_items
+      _state_ visible
+      _columns_ one
+      _animation_ none
+      _pattern_ list
+      "
+      data-content="nav_items"
+      data-click="nav_items"
+      data-position="nav_items"
+      data-ga="nav_items"
+      >
+      <li class="
+        _scope_ unit
+        _instance_ docs
+        _state_ visible
+        _columns_ one
+        _animation_ none
+        _pattern_ list
+        ">
+        <%= data.copy.docs %>
+      </li> <!-- unit gallery  title  button  paragraph  image  list  wrap docs -->
+    </ul> <!-- unit list nav_items -->
+  </nav> <!-- collection wrap nav -->
+
+
+</header> <!-- collection wrap header -->
