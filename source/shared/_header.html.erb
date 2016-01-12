@@ -1,0 +1,32 @@
+<header id="header">
+  <section class='logo'>
+    <div class='logo__name'>
+      <a href="/" title="dave woodall">dave woodall</a>
+    </div>
+    <div>
+      <a href="/code" title="web developer">web developer</a>
+    </div>
+  </section>
+  <nav>
+    <ul class='nav_links'>
+      <li class='code'>
+        <%= link_to 'code', '/code' %>
+      </li>
+      <li class='about'>
+        <%= link_to 'about', '/about' %>
+      </li>
+      <li class='nav_links__external'>
+        <%= mail_to 'dave@woodalls.me', 'contact' %>
+      </li>
+      <li class='nav_links__external'>
+        <a href="http://www.github.com/woodall">github</a>
+      </li>
+      <li class='nav_links__external'>
+        <a href="http://www.wwwoodall.com">freelance</a>
+      </li>
+      <li class='nav_links__external'>
+        <a href="http://wwwoodall.com/assets/dave_woodall_resume.pdf">resume</a>
+      </li>
+    </ul>
+  </nav>
+</header><!-- /header -->

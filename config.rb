@@ -1,28 +1,26 @@
-activate :automatic_image_sizes
+activate :livereload
 activate :directory_indexes
 
-configure :development do
-  activate :livereload
-end
-
 activate :blog do |blog|
-  blog.permalink = "{title}.html"
+    blog.permalink = "{title}"
+    # blog.layout = "content"
 end
 
 set :css_dir, 'stylesheets'
-
 set :js_dir, 'javascripts'
-
 set :images_dir, 'images'
+
+
+activate :deploy do |deploy|
+  deploy.build_before = true
+  deploy.method = :git
+end
 
 configure :build do
   activate :minify_css
+  activate :minify_html
   activate :minify_javascript
-end
-
-activate :deploy do |deploy|
-  # deploy.deploy_method = :git
-  # deploy.commit_message = 'slow and steady wins the race'
+  activate :relative_assets
 end
 
 
@@ -38,7 +36,7 @@ end
 # end
 
 # helpers do
-#   def some_helper
+#   def sidebar_nav
 #     "Helping"
 #   end
 # end

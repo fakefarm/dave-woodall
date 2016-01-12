@@ -6,5 +6,6 @@ gem "middleman-blog"
 gem 'middleman-gh-pages'
 gem 'middleman-deploy', '~> 1.0'
 
+gem 'pry'
 gem 'bourbon'
 gem 'neat'

@@ -1,6 +1,7 @@
 // padding, pixels, weights
 
 $limited_space: 0em;
+$small_space:   0.5em;
 $default_space: 1em;
 $extra_space:   2em;
 $line_weight:   3px;
@@ -29,3 +30,4 @@ $green:      #00A050;
 // typography
 $sanserif: 'helvetica neue', helvetica, arial;
 $lucida: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva, Verdana, sans-serif;
+$serif: 'Crimson Text', serif;

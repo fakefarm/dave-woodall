@@ -1,0 +1,60 @@
+---
+title: code
+date: 2016-01-04 05:08 UTC
+tags:
+---
+
+## Backend
+
+**Ruby on Rails**  - In 2007 I discovered <a href='http://www.basecamp.com' target='_blank'>basecamp</a>. It's simplicity, effectiveness, and business model fascinated me. Through basecamp I discovered Ruby on Rails and started teaching myself that same year. It took 5 years from then to write Rails full time. My longest running side project is [todo]() which is my own app
+
+**Middleman** - I have been using Middleman since 2012 and built a nice side business for my family with [clover]()
+
+**Ruby** - I have invested a lot of time into learning about OOP with great books such as [Practical Object Oriented Design in Ruby]()
+
+<!-- **SQL** - I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice
+ -->
+<!-- **API's** - I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice[]
+ -->
+
+## Frontend
+
+**HTML / Rails Views** - HTML can be a grab bag for 'Rails Views', 'Partials', rails
+
+**CSS / SCSS / SMACSS / BEM** - I have been working with styling since the beginning and have started working on my own _academic_ project to figure out how best to organizing styling. Specificity, styling, layout, and more.
+
+**JavaScript / JQquery** - this is the description
+
+## Javascript
+
+**Angular 'Version 1'** - I've built medium sized angular apps during 2012 - 2014. Since then, I've been working with Backbone and _vanilla JS_.
+
+**Backbone** - If I have to work with a JS framework, backbone is going my preference since it's most JS of them all. (I recognize React is the hotness but the apps I've worked with have not needed that much structure)
+
+<!-- 
+**Jasmine** - I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice[]
+
+**underscore js** - I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice[]
+ -->
+
+<!-- ## put these in the descriptions
+
+**[underscore scss]()** - project description
+
+**[fakefarm]()** - project description
+
+**[garden]()** - project description
+
+**[hashpage]()** - project description
+
+**[stripe API]()** - project description
+
+**[goalies]()** - project description
+
+**[destory all tasks]()** - project description
+
+**[afterburners]()** - project description
+
+**[lemonade stand]()** - project description
+
+ -->
