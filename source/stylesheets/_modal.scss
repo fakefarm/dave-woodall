@@ -1,0 +1,73 @@
+@import 'bourbon';
+@import 'neat';
+
+// animations
+
+@-webkit-keyframes background__ember {
+  0%   { background: #FFCC66; }
+  30%  { background: #E7BA5D; }
+  60%  { background: #E7DA87; }
+  100% { background: #FFBE82; }
+}
+
+@mixin background_ember() {
+  -moz-animation: background__ember 2s linear infinite alternate;
+  animation: background__ember 2s linear infinite alternate;
+}
+
+$bottom: 100;
+$top: 1000;
+$sans: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$blue: #0AA2FF;
+$gray: #4C4C4C;
+$radius: 4px;
+
+
+.modal {
+  position: relative;
+  z-index: $top;
+}
+
+#modal__button { display: none; }
+#modal__button + .modal_background { opacity: 0; }
+
+#modal__button:checked + .modal {
+// text
+}
+
+.modal__text {
+  background: white;
+  border-radius: $radius;
+  padding: 3em;
+  box-shadow: 1px 1px 4px 0 $gray;
+}
+
+#modal__button:checked + .modal__text {}
+
+#modal__button:checked + .modal_visability {
+  opacity: 1;
+}
+
+
+#modal__button:checked ~ .modal_background {
+  @include transition(all 200ms ease-in-out);
+  @include position(fixed, 0 0 0 0);
+  @include background_ember;
+  z-index: $bottom;
+  opacity: 0.9;
+}
+
+.modal__close {
+  text-align: right;
+  font-family: $sans;
+  display: block;
+  font-size: 40px;
+  margin-bottom: 20px;
+  font-weight: 100;
+  color: white;
+}
+
+.more_info, .modal__close {
+  cursor: pointer;
+  &:hover { color: $blue;  }
+}

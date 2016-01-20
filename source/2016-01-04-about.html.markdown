@@ -4,10 +4,11 @@ date: 2016-01-04 04:32 UTC
 tags:
 ---
 
-## Code is a form of literacy
+## My path to programming
 
-I started a business in college designing and printing t-shirts for bands, camps, churches, summer camps, and anyone else who would buy from me. The year was 2000 and the dot com bubble had just burst. So I decided to pass on the fad they called the web.
+I started a business in college designing and printing t-shirts for bands, camps, churches, summer camps, and anyone else who would buy from me. The year was 2000 and the dot com bubble had just burst so I deduced the web was just a fad. Fast forward 8 years when I started to realize that the web didn't die. 
 
-Fast forward 8 years when I started to realize that the web didn't die. I started to see how code became a new literacy. Once I viewed it that way, the fact that I couldn't read or write made me feel almost claustrophobic. I started dabbling with Rails and it took me four years to decide to do it full time. Coding is my fifth career and by far my favorite task as I much prefer to be a specialist than a generalist.
+I confess that I did not start writing code for technical reasons like build an assembler, study machine code, or write my own language. I just wanted to create transactions in ways that were unique and original so that meant learning to build web apps by myself rather than rely on someone else. 
 
-I confess that I didn't get into writing code in order to build an assembler, study machine code, or even do other nerd things. I just wanted to create transactions online in ways that were unique and original so that meant knowing how to build web apps by myself.
+I started to see code as a new literacy. The fact that I couldn't read or write felt claustrophobic. I started dabbling with Rails and it took me four years before I knew enough to code full time. Coding is my fifth career and by far my favorite of them all.
+

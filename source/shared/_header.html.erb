@@ -4,17 +4,21 @@
       <a href="/" title="dave woodall">dave woodall</a>
     </div>
     <div>
-      <a href="/code" title="web developer">web developer</a>
+      <h3 class='job_title'>
+        Ruby on Rails, javaScript, HTML/CSS
+      </h3>
     </div>
   </section>
   <nav>
     <ul class='nav_links'>
       <li class='code'>
-        <%= link_to 'code', '/code' %>
+        <a href="/code/" title="code">code</a>
       </li>
       <li class='about'>
-        <%= link_to 'about', '/about' %>
+        <a href="/about/" title="about">about</a>
       </li>
+    </ul>
+    <ul class='external_links'>
       <li class='nav_links__external'>
         <%= mail_to 'dave@woodalls.me', 'contact' %>
       </li>
