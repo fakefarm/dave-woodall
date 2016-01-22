@@ -4,59 +4,112 @@ date: 2016-01-04 05:08 UTC
 tags:
 ---
 
-## Backend
+# Code
 
-**Ruby on Rails**  - In 2007 I discovered <a href='http://www.basecamp.com' target='_blank'>basecamp</a>. It was my first exposure to a "SAAS" business model. It's simplicity and effectiveness fascinated me. Shortly after, I discovered Ruby on Rails to aspire to build my own <i>Basecampe</i>. My longest running side project is [a todo app](http://todo.wwwoodall.com) which is my own app.
+Below you will find a summary of the technologies I am skilled.
 
-**Middleman** - I have been using Middleman since 2012 and use it to with [clover](http://www.clov3r.com) for simple sites for my friends and family.
+## Ruby on Rails
 
-**Ruby** - I have invested a lot of time into [learning about OOP](lemondade_stand) with great books such as [Practical Object Oriented Design in Ruby]() and projects like [capsule]()
+In 2007 I discovered <a href='http://www.basecamp.com' target='_blank'>basecamp</a>. It was my first exposure to "Software as a Service". As a former business owner, I was drawn to a business that has userIt's simplicity and effectiveness fascinated me. Shortly after, I discovered Ruby on Rails to aspire to build my own <i>project management tool</i> with my former business. My longest active running side project is, unsurprisingly a [todo app](http://todo.wwwoodall.com).
 
-**SQL** - I'd consider myself intermediate with SQL but I also have a strong interest in learning more. 
+[/one]()
 
-**API's** - API's are like off-balance sheet liabilities. They have much more weight than they lead to believe. Some of the API's I've worked with include are Stripe, Twitter, Jira, and internal services at LivingSocial. 
+[/one]()
 
-I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice [connecting with Stripe for payments]() and publishing [tweets as a webpage]()
+## JavaScript
 
+I prefer to write vanilla JS and have a solid grasp of JQuery, Jasmine, Underscore, Angular, Backbone, and CoffeeScript. I've dabbled with Node (Express) and Wordpress but they are not my areas of expertise.
 
-## Frontend
+## Middleman
 
-**HTML / Rails Views** - HTML can be a grab bag for 'Rails Views', 'Partials', rails
+I have been using Middleman since 2012 because it offers an asset pipeline, local server, and gems for sophisticated static site development all with Ruby.
 
-**CSS / SCSS / SMACSS / BEM** - I have been working with styling since the beginning and have started working on my own _academic_ project to figure out how best to organizing styling. Specificity, styling, layout, and more.
+## CSS
 
-**JavaScript / JQuery** - this is the description
+I enjoy writing CSS because it scratches the 'designer' in me. In addition to the visual aspect of CSS, I've spent time learning best practices when it comes to responsive web, specificity, and cross browser compatibility. I've experimented with many CSS compilers (SCSS) and methodologies (SMACSS / BEM) as well as attempting my own version of CSS management with an academic project I call [underscore scss]()
 
-## Javascript
+## HTML
 
-**Angular 'Version 1'** - I've built medium sized angular apps during 2012 - 2014. Since then, I've been working with Backbone and _vanilla JS_.
+HTML is a grab bag for many collaborating technologies and should be written to accommodate them. For example, hooks for JavaScript and classes to manage styling and layout. HTML could be defined in broader terms as **View Management** to include Rails partials (ERB/SLIM), responsive web design, and cross browser testing.
 
-**Backbone** - If I have to work with a JS framework, backbone is going my preference since it's most JS of them all. (I recognize React is the hotness but the apps I've worked with have not needed that much structure)
+<hr>
 
-<!-- 
-**Jasmine** - I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice[]
+## Side projects
 
-**underscore js** - I'd consider myself intermediate with SQL but I also have a strong interest in knowing more. For example, I've been working on a side project to practice[]
- -->
+These are various projects I work on for education and experimentation.
 
-<!-- ## put these in the descriptions
+### [/underscore_scss]()
 
-**[underscore scss]()** - project description
+A project I'm building to learn more about things.
 
-**[fakefarm]()** - project description
+### [fakefarm]()
 
-**[garden]()** - project description
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**[hashpage]()** - project description
+### [garden]()
 
-**[stripe API]()** - project description
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**[goalies]()** - project description
+### [hashpage]()
 
-**[destory all tasks]()** - project description
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-**[afterburners]()** - project description
+### [stripe API]
 
-**[lemonade stand]()** - project description
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
- -->
+### [goalies]()
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### [destory all tas
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### [afterburners]()
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+### [lemonade stand]
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

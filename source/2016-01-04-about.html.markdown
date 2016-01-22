@@ -4,11 +4,20 @@ date: 2016-01-04 04:32 UTC
 tags:
 ---
 
-## My path to programming
+# About Me
 
-I started a business in college designing and printing t-shirts for bands, camps, churches, summer camps, and anyone else who would buy from me. The year was 2000 and the dot com bubble had just burst so I deduced the web was just a fad. Fast forward 8 years when I started to realize that the web didn't die. 
+I started writing code in 2008 and working professionally as a developer in 2012. I build web applications with Ruby on Rails and web sites with Middleman and have a solid grasp of JavaScript, HTML, CSS/SCSS. I actively follow news to stay up to date in each of the respective technologies I regularly use. I am a curious introvert and prefer to work with distributed teams but also willing to work on site for the right situation.
 
-I confess that I did not start writing code for technical reasons like build an assembler, study machine code, or write my own language. I just wanted to create transactions in ways that were unique and original so that meant learning to build web apps by myself rather than rely on someone else. 
 
-I started to see code as a new literacy. The fact that I couldn't read or write felt claustrophobic. I started dabbling with Rails and it took me four years before I knew enough to code full time. Coding is my fifth career and by far my favorite of them all.
+## Team Player
+
+As a former Art Director, I still enjoy UI/Design tasks like wire framing, UX diagrams, and mentoring graphic designers who want to learn to code. I voluntarily manage LivingSocial's Boulder office and have initiated culture improvements like forming book and code clubs.
+
+## B.C. _(before coding)_
+
+I started a t-shirt business in college. The year was 2000 and the dot com bubble had just burst so I deduced the web was just a fad. Eight years later I started to realize that I was wrong.
+
+I began to view code as a new form of literacy. Like many people, I had lots of Internet business ideas. But after several unsuccessful attempts with 3rd party sites, consultants, and other hacks I realized that I needed to learn to code for myself.
+
+In total, I spent 17 years in the apparel and music industries including - three turnarounds, founding two companies, and selling one. I have experience with acquiring profitable customers and I'm formally trained with a Masters in Finance. Coding is my fifth career and by far my favorite of them all.
 

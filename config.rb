@@ -1,5 +1,3 @@
-set :site_url, ""
-
 activate :blog do |blog|
     blog.permalink = "{title}"
     # blog.layout = "content"
@@ -20,7 +18,6 @@ configure :build do
   activate :minify_html
   activate :minify_javascript
   activate :relative_assets
-  set :http_prefix, "woodall.github.io/dave-woodall"
 end
 
 activate :livereload

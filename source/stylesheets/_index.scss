@@ -29,6 +29,13 @@ body {
   // a { color: #004080; }
 }
 
+#footer {
+  background: #dad7c7;
+  padding: 1em 0 5em;
+  border-top: 1px solid #8C8B81;
+  a { color: #8C8B81; }
+}
+
 
 nav {
   @include media(min-width $tablet) {
@@ -198,4 +205,12 @@ nav {
   font-weight: 100;
   letter-spacing: 1px;
   text-align: center;
+}
+
+.dave {
+  @include span-columns(4);
+  img { width: 100%; }
+  margin-right: 2em;
+  border-radius: 5px;
+  margin-bottom: 2em;
 }
