@@ -4,35 +4,32 @@ date: 2016-01-04 05:08 UTC
 tags:
 ---
 
-# Code
-
-Below you will find a summary of the technologies I am skilled.
-
 ## Ruby on Rails
 
-In 2007 I discovered <a href='http://www.basecamp.com' target='_blank'>basecamp</a>. It was my first exposure to "Software as a Service". As a former business owner, I was drawn to a business that has userIt's simplicity and effectiveness fascinated me. Shortly after, I discovered Ruby on Rails to aspire to build my own <i>project management tool</i> with my former business. My longest active running side project is, unsurprisingly a [todo app](http://todo.wwwoodall.com).
-
-[/one]()
-
-[/one]()
+In 2007 I discovered <a href='http://www.basecamp.com' target='_blank'>Basecamp</a> which lead me to [Ruby on Rails](http://rubyonrails.org/) _(Rails)_. Rails inspired me to build my own <i>project management tool</i> which has taken longer than anticipated :-) I test with [Minitest](https://github.com/seattlerb/minitest), monitor with [New Relic](http://newrelic.com/), and deploy with [Heroku](https://www.heroku.com/). I am excited for [Action Cable](https://www.youtube.com/watch?v=n0WUjGkDFS0) which will ship as part of Rails 5.
 
 ## JavaScript
 
-I prefer to write vanilla JS and have a solid grasp of JQuery, Jasmine, Underscore, Angular, Backbone, and CoffeeScript. I've dabbled with Node (Express) and Wordpress but they are not my areas of expertise.
+I prefer _vanilla_ JS over [CoffeeScript](http://coffeescript.org/). The Rails apps I've worked with tend to use [JQuery](https://jquery.com/), [Underscore](http://underscorejs.org/), [BackboneJS](http://backbonejs.org/) (and/or)  [AngularJS](https://angularjs.org/). I use [Jasmine](http://jasmine.github.io/) for testing. I am excited about the future of [BabelJS](https://babeljs.io/), [ECMA 6](https://github.com/lukehoban/es6features/blob/master/README.md), and [ReactJS](https://facebook.github.io/react/).
+
+
 
 ## Middleman
 
-I have been using Middleman since 2012 because it offers an asset pipeline, local server, and gems for sophisticated static site development all with Ruby.
+I build static sites with [Middleman](http://middlemanapp.com/) because it is very similar to Rails. It's written in Ruby, has an [Asset Pipeline](http://guides.rubyonrails.org/asset_pipeline.html), local server, and gems for developing with sophisticated tools. Then, with [free static site hosting from GitHub](https://pages.github.com/) that makes deployment easy and free!
 
 ## CSS
-
-I enjoy writing CSS because it scratches the 'designer' in me. In addition to the visual aspect of CSS, I've spent time learning best practices when it comes to responsive web, specificity, and cross browser compatibility. I've experimented with many CSS compilers (SCSS) and methodologies (SMACSS / BEM) as well as attempting my own version of CSS management with an academic project I call [underscore scss]()
+I enjoy [thoughtbot's front-end suite](https://thoughtbot.com/open-source/#front-end) (Bourbon, Neat, and Bitters). I write SCSS and regularly try to apply methodologies like [SMACSS](https://smacss.com/) and [BEM](https://en.bem.info/) as best I can.
 
 ## HTML
 
-HTML is a grab bag for many collaborating technologies and should be written to accommodate them. For example, hooks for JavaScript and classes to manage styling and layout. HTML could be defined in broader terms as **View Management** to include Rails partials (ERB/SLIM), responsive web design, and cross browser testing.
+HTML could be defined in broader terms as _View management_ to include working with JS frameworks, Rails partials (ERB/SLIM), responsive web design, and cross browser testing.
 
-<hr>
+<!-- ## node & friends
+
+I have spent time in Node, including managing an ExpressJS app but I would not consider my skills at more than recreation and shear hackery.
+ -->
+<!-- <hr>
 
 ## Side projects
 
@@ -113,3 +110,4 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ -->

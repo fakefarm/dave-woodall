@@ -6,18 +6,23 @@ tags:
 
 # About Me
 
-I started writing code in 2008 and working professionally as a developer in 2012. I build web applications with Ruby on Rails and web sites with Middleman and have a solid grasp of JavaScript, HTML, CSS/SCSS. I actively follow news to stay up to date in each of the respective technologies I regularly use. I am a curious introvert and prefer to work with distributed teams but also willing to work on site for the right situation.
+I started writing code in 2008 and working professionally as a developer in 2012. I build web applications with Ruby on Rails and web sites with Middleman and have a solid grasp of JavaScript, HTML, CSS/SCSS. I actively [follow news](https://cooperpress.com/) to stay up to date in each of the respective technologies I regularly use. I am a curious introvert and prefer to work with distributed teams but also willing to work on site for the right situation.
 
 
 ## Team Player
 
 As a former Art Director, I still enjoy UI/Design tasks like wire framing, UX diagrams, and mentoring graphic designers who want to learn to code. I voluntarily manage LivingSocial's Boulder office and have initiated culture improvements like forming book and code clubs.
 
+I also [dribbble](https://dribbble.com/wwwoodall) for fun.
+
+
 ## B.C. _(before coding)_
 
-I started a t-shirt business in college. The year was 2000 and the dot com bubble had just burst so I deduced the web was just a fad. Eight years later I started to realize that I was wrong.
+During college I started a t-shirt business. The year was 2000 and the _dot com_ bubble had just burst so I deduced the web was a fad and should focus on the apparel industry. It only took eight years to realize I was wrong.
 
-I began to view code as a new form of literacy. Like many people, I had lots of Internet business ideas. But after several unsuccessful attempts with 3rd party sites, consultants, and other hacks I realized that I needed to learn to code for myself.
+I began to view code as a new form of literacy. Like many people, I had lots of Internet business ideas. But after several unsuccessful attempts with 3rd party sites, consultants, and other hacks I realized that I needed to learn to code for myself. So, I moved my family from Denver to Florida for three months so that I could attend [starter league](http://www.starterleague.com/) in Chicago. That was the catalyst I needed to make the switch.
 
-In total, I spent 17 years in the apparel and music industries including - three turnarounds, founding two companies, and selling one. I have experience with acquiring profitable customers and I'm formally trained with a Masters in Finance. Coding is my fifth career and by far my favorite of them all.
+In total, I spent 17 years in the apparel and music industries including - three turnarounds, founding two companies, and selling one. I have experience with acquiring profitable customers and I'm formally trained with a Masters in Finance. 
+
+Coding is my fifth career and by far my favorite of them all. My longest active commit streak is [193 days](https://github.com/woodall).
 
